@@ -1,7 +1,7 @@
 ---
 title: First Post
 date: 2021-07-04 04:07:50
-category: category1
+category: Javascript
 thumbnail: { thumbnailSrc }
 draft: false
 ---
